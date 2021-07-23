@@ -209,4 +209,5 @@ return [
         'doctrine_mappings' => [],
     ],
 
+    'add_on' => ['menu' => ['enabled' => true]] 
 ];
